@@ -1,8 +1,8 @@
 class Dotamp < Formula
   desc "Terminal music player drawn in dots: Plex-backed, with a braille spectrum analyzer"
   homepage "https://github.com/brady1408/dotamp"
-  url "https://github.com/brady1408/dotamp/archive/refs/tags/v0.15.2.tar.gz"
-  sha256 "e364ff18fe56d9a8dca0dcdbe1bc9235703058f420665386b736b660bd93e424"
+  url "https://github.com/brady1408/dotamp/archive/refs/tags/v0.16.0.tar.gz"
+  sha256 "06bf353d20b6dc6a4f8d677f878ebf6dcbc79e68f441f298c0495b3d21fe2784"
   license "MIT"
   head "https://github.com/brady1408/dotamp.git", branch: "main"
 
